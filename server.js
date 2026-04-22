@@ -6,7 +6,7 @@ const fs = require('fs');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const GROQ_API_KEY = process.env.GROQ_API_KEY || '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';
+const GROQ_API_KEY = process.env.GROQ_API_KEY || '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';
 const USERS = {
   pilgrim: 'pilgrim123',
   admin: 'admin123',
